@@ -25,3 +25,5 @@ Allgemeine Fits mit <code>scipy.stats.linregress</code> und simple Fehlerrechnun
 </p>
 <h2> GO1 Abbildungen durch Linsen und Abbildungsfehler </h2>  
 Eine Vielzahl an Rechnungen und Ausgabe von Werten. <a href="Experiment_GO1/go1.pdf">PDF Protokoll GO1</a>  
+<h2> GO2 Optische Instrumente </h2>  
+Keine EDV notwendig gewesen. <a href="Experiment_GO2/GO2.pdf">PDF Protokoll GO2</a>  
