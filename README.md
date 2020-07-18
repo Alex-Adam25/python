@@ -7,7 +7,7 @@ Allgemeine Fits mit <code>scipy.stats.linregress</code> als auch ein Fit mit `lm
   <img src="images/M15/sin.png" title="linregress" width="200" />
   <img src="images/M15/lmfit.png" title="lmfit" width="200" />
 </p>  
-## T3 Bestimmung der spezifischen Wärmekapazität und Schmelzwärme
+<h2> T3 Bestimmung der spezifischen Wärmekapazität und Schmelzwärme </h2>
 
 Allgemeine Fits mit <code>scipy.stats.linregress</code> wobei es eine Vor- und Nachkurve gab welche in Kombination der Optimierung einer Fläche <code>scipy.optimize</code> ein genaueres Ergebnis lieferten. <a href="Experiment_T3/t3.pdf">PDF Protokoll T3</a>  
 <p align="middle">
