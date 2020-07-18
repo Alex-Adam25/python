@@ -23,3 +23,5 @@ Allgemeine Fits mit <code>scipy.stats.linregress</code> und simple Fehlerrechnun
   <img src="images/M3/s(F).png" title="linregress" width="200" />
   <img src="images/M3/tor.png" title="linregress" width="200" /> 
 </p>
+<h2> M3 Abbildungen durch Linsen und Abbildungsfehler </h2>  
+Eine Vielzahl an Rechnungen und Ausgabe von Werten. <a href="Experiment_GO1/go1.pdf">PDF Protokoll GO1</a>  
