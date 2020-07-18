@@ -27,3 +27,5 @@ Allgemeine Fits mit <code>scipy.stats.linregress</code> und simple Fehlerrechnun
 Eine Vielzahl an Rechnungen und Ausgabe von Werten. <a href="Experiment_GO1/go1.pdf">PDF Protokoll GO1</a>  
 <h2> GO2 Optische Instrumente </h2>  <!-- NUL -->
 Keine EDV notwendig gewesen. <a href="Experiment_GO2/GO2.pdf">PDF Protokoll GO2</a>  
+<h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2>
+Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung(N &rarr; &infin; &rArr; Possion-Verteilung)
