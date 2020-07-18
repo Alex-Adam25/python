@@ -20,6 +20,6 @@ Allgemeine Fits mit <code>scipy.stats.linregress</code> wobei es eine Vor- und N
 <h2> M3 Bestimmung des Elastizitätsmoduls durch Biegung und dynamische Bestimmung des Torsionsmoduls </h2>  
 Allgemeine Fits mit <code>scipy.stats.linregress</code> und simple Fehlerrechnung. <a href="Experiment_M3/m3.pdf">PDF Protokoll M3</a>  
 <p align="middle">
-  <img src="images/M3/s(F).png" title="linregress" width="220" />
-  <img src="images/M3/tor.png" title="linregress" width="220" /> 
+  <img src="images/M3/s(F).png" title="linregress" width="200" />
+  <img src="images/M3/tor.png" title="linregress" width="200" /> 
 </p>
