@@ -32,7 +32,7 @@ Eine Vielzahl an Rechnungen und Ausgabe von Werten. <a href="Experiment_GO1/go1.
 Keine EDV notwendig gewesen. <a href="Experiment_GO2/GO2.pdf">PDF Protokoll GO2</a>  
 
 <h2> E2 Messung  von  Magnetfeldern  mitder Hallsonde </h2>
-Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arrays in eine Latex Tabelle umwandelt (nicht im Skript verwendet)<a href="Experiment_E2/E2.pdf">PDF Protokoll GO1</a>
+Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arrays in eine Latex Tabelle umwandelt (nicht im Skript verwendet)<a href="Experiment_E2/E2.pdf">PDF Protokoll E2</a>
 <p align="middle">
   <img src="images/E2/U_H(B)kor.png" title="lmfit" width="200" />
   <img src="images/E2/3e1.png" title="lmfit" width="200" />
