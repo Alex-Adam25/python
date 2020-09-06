@@ -42,7 +42,7 @@ Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arr
 
 
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
-Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Protokoll M15</a>
+Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
 <p align="middle">
   <img src="InfoStat/plot1.png" width="200" />
   <img src="InfoStat/plot2.png" width="200" />
