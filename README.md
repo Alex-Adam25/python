@@ -42,7 +42,7 @@ Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arr
 
 <h2> AP1 Messung der Elementarladung - Der Millikan'sche Öltröpfchenversuch</h2><!-- NUL  -->
 
-<h2> AP2 Bestimmung des Planck'schen Wirkungsquantums - Der photoelektrische Effekt </h2><!-- NUL  -->
+<h2> AP2 Bestimmung des Planck'schen Wirkungsquantums - Der photoelektrische Effekt </h2><!-- 1.3  -->
 
 <h2> AP4 Inelastische Streuung - Das Franck-Hertz-Experiment </h2><!-- 2.7  -->
 
