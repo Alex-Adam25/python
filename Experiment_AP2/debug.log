@@ -1,0 +1,14 @@
+[0930/014957.738:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.738:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.738:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.738:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.738:ERROR:exception_snapshot_win.cc(100)] thread ID 13704 not found in process
+[0930/014957.738:ERROR:exception_snapshot_win.cc(100)] thread ID 588 not found in process
+[0930/014957.738:ERROR:exception_snapshot_win.cc(100)] thread ID 3184 not found in process
+[0930/014957.738:ERROR:exception_snapshot_win.cc(100)] thread ID 9064 not found in process
+[0930/014957.754:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.756:ERROR:exception_snapshot_win.cc(100)] thread ID 12016 not found in process
+[0930/014957.756:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.756:ERROR:exception_snapshot_win.cc(100)] thread ID 1644 not found in process
+[0930/014957.756:ERROR:process_reader_win.cc(127)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt. (0xc0000022)
+[0930/014957.756:ERROR:exception_snapshot_win.cc(100)] thread ID 17488 not found in process
