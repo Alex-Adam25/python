@@ -31,7 +31,7 @@ Eine Vielzahl an Rechnungen und Ausgabe von Werten. <a href="Experiment_GO1/go1.
 <h2> GO2 Optische Instrumente </h2>  <!-- NUL -->
 Keine EDV notwendig gewesen. <a href="Experiment_GO2/GO2.pdf">PDF Protokoll GO2</a>  
 
-<h2> E2 Messung  von  Magnetfeldern  mitder Hallsonde </h2>
+<h2> E2 Messung  von  Magnetfeldern mit der Hallsonde </h2> <!-- 1.7  -->
 Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arrays in eine Latex Tabelle umwandelt (nicht im Skript verwendet)<a href="Experiment_E2/E2.pdf">PDF Protokoll E2</a>
 <p align="middle">
   <img src="Experiment_E2/U_H(B)kor.png" title="lmfit" width="200" />
@@ -40,7 +40,16 @@ Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arr
   <img src="Experiment_E2/4bkor.png" title="err_plot" width="200" /> 
 </p>
 
+<h2> AP1 Messung der Elementarladung - Der Millikan'sche Öltröpfchenversuch</h2><!-- NUL  -->
 
+<h2> AP2 Bestimmung des Planck'schen Wirkungsquantums - Der photoelektrische Effekt </h2><!-- 1.3  -->
+
+<h2> AP4 Inelastische Streuung - Das Franck-Hertz-Experiment </h2><!-- 2.7  -->
+
+<h2> AP9 Ablenkung und Beugung von Elektronen </h2> <!-- 2.3  -->
+
+<h2> AS1 Atomspektren </h2> <!-- 1.0  -->
+ 
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
 Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
 <p align="middle">
