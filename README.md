@@ -41,7 +41,7 @@ Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arr
 </p>
 
 <h2> AP1 Messung der Elementarladung - Der Millikan'sche Öltröpfchenversuch</h2><!-- 1.3  -->
-Manuelle analyse eines Histogrammes und lineare regression mit `scipy.odr` wobei eine Funktion erstellt worden ist zur automatischen regression und Darstellung. Zusätzlich wurde eine Funktion geschrieben zur Erstellung von mehrseitigen Latextabellen <a href="Experiment_AP1/AP1.pdf">PDF Protokoll AP1</a>
+Manuelle analyse eines Histogrammes und lineare regression mit `scipy.odr` wobei eine Funktion erstellt worden ist zur automatischen regression und Darstellung. Zusätzlich wurde eine Funktion geschrieben zur Erstellung von mehrseitigen Latextabellen. <a href="Experiment_AP1/AP1.pdf">PDF Protokoll AP1</a>
 <p align="middle">
   <img src="Experiment_AP1/hist_0.25_kor.png" title="plt" width="200" />
   <img src="Experiment_AP1/hist_0.25_kor_bins.png" title="plt" width="200" />
@@ -49,18 +49,21 @@ Manuelle analyse eines Histogrammes und lineare regression mit `scipy.odr` wobei
 </p>
 
 <h2> AP2 Bestimmung des Planck'schen Wirkungsquantums - Der photoelektrische Effekt </h2><!-- 1.3  -->
-Überprüfung von Thesen und Konstanten basierend auf den Plots der ODR Funktion. Die Latextabellenfunktion wurde zudem erweitert zur Unterstüzung von verschieden Datentypen, Kontrolle von Eingabeparametern und Unterstüzung von shortcuts.
-<a href="Experiment_AP2/AP2.pdf">PDF Protokoll AP2</a>
+Überprüfung von Thesen und Konstanten basierend auf den Plots der ODR Funktion. Die Latextabellenfunktion wurde zudem erweitert zur Unterstüzung von verschieden Datentypen, Kontrolle von Eingabeparametern und Unterstüzung von shortcuts. <a href="Experiment_AP2/AP2.pdf">PDF Protokoll AP2</a>
 <p align="middle">
   <img src="Experiment_AP2/int_uv.png" title="odr" width="200" />
   <img src="Experiment_AP2/h_ord1_1.png" title="odr" width="200" />
   <img src="Experiment_AP2/h_ord2_2.png" title="odr" width="200" />
   <img src="Experiment_AP2/led.png" title="odr" width="200" />
-
 </p>
 <h2> AP4 Inelastische Streuung - Das Franck-Hertz-Experiment </h2><!-- 2.7  -->
-<a href="Experiment_AP4/AP4.pdf">PDF Protokoll AP4</a>
+Lineare regressionen mit der ODR Funktion und grafische Bearbeitung eines Bildes mit `matpltlib`. <a href="Experiment_AP4/AP4.pdf">PDF Protokoll AP4</a>
+<p align="middle">
+  <img src="Experiment_AP4/0.5.png" title="odr" width="200" />
+  <img src="Experiment_AP4/avg.png" title="odr" width="200" />
+  <img src="Experiment_AP4/neonxlabel.png" title="matpltlib" width="200" />
 
+</p>
 <h2> AP9 Ablenkung und Beugung von Elektronen </h2> <!-- 2.3  -->
 <a href="Experiment_AP9/AP9.pdf">PDF Protokoll AP9</a>
 
