@@ -68,12 +68,17 @@ Korrelationüberprüfungen mit der ODR Funktion zum beweisen des Welle-Teilchen-
 <p align="middle">
   <img src="Experiment_AP9/e1.png" title="odr" width="200" />
   <img src="Experiment_AP9/b1.png" title="odr" width="200" />
-  <img src="Experiment_AP9/g1.png" title="odr" width="200" />
-
+  <img src="Experiment_AP9/g1.png" title="odr" width="200" /
 </p>
 
 <h2> AS1 Atomspektren </h2> <!-- 1.0  -->
- <a href="Experiment_AS1/AS1.pdf">PDF Protokoll AS1</a>
+Analyse der Spektrallinien von Wasserstoff und Natrium als auch bestimmung von einer Naturkonstante. Die ODR Funktion ist nun ausgelagert worden wobei auf backwards compatibility geachtet worden ist. <a href="Experiment_AS1/AS1.pdf">PDF Protokoll AS1</a>
+
+<p align="middle">
+  <img src="Experiment_AS1/gitter_fix.png" title="odr" width="200" />
+  <img src="Experiment_AS1/R_vac_fix.png" title="odr" width="200" />
+  <img src="Experiment_AS1/na_90deg.png" title="odr" height="200"/>
+</p>
  
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
 Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
