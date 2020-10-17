@@ -40,15 +40,25 @@ Alle fits `lmfit` erstellt. Zudem ein Python-Programm erstellt welches numpy arr
   <img src="Experiment_E2/4bkor.png" title="err_plot" width="200" /> 
 </p>
 
-<h2> AP1 Messung der Elementarladung - Der Millikan'sche Öltröpfchenversuch</h2><!-- NUL  -->
+<h2> AP1 Messung der Elementarladung - Der Millikan'sche Öltröpfchenversuch</h2><!-- 1.3  -->
+Manuelle analyse eines Histogrammes und lineare regression mit `scipy.odr` wobei eine Funktion erstellt worden ist zur automatischen regression und Darstellung <a href="Experiment_AP1/AP1.pdf">PDF Protokoll AP1</a>
+<p align="middle">
+  <img src="Experiment_AP1/hist_0.25_kor.png" title="lmfit" width="200" />
+  <img src="Experiment_AP1/hist_0.25_kor_bins.png" title="lmfit" width="200" />
+  <img src="Experiment_AP1/e_plot.png" title="lmfit" width="200" />
+</p>
 
 <h2> AP2 Bestimmung des Planck'schen Wirkungsquantums - Der photoelektrische Effekt </h2><!-- 1.3  -->
+<a href="Experiment_AP2/AP2.pdf">PDF Protokoll AP2</a>
 
 <h2> AP4 Inelastische Streuung - Das Franck-Hertz-Experiment </h2><!-- 2.7  -->
+<a href="Experiment_AP4/AP4.pdf">PDF Protokoll AP4</a>
 
 <h2> AP9 Ablenkung und Beugung von Elektronen </h2> <!-- 2.3  -->
+<a href="Experiment_AP9/AP9.pdf">PDF Protokoll AP9</a>
 
 <h2> AS1 Atomspektren </h2> <!-- 1.0  -->
+ <a href="Experiment_AS1/AS1.pdf">PDF Protokoll AS1</a>
  
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
 Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
