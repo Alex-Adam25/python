@@ -62,10 +62,15 @@ Lineare regressionen mit der ODR Funktion und grafische Bearbeitung eines Bildes
   <img src="Experiment_AP4/0.5.png" title="odr" width="200" />
   <img src="Experiment_AP4/avg.png" title="odr" width="200" />
   <img src="Experiment_AP4/neonxlabel.png" title="matpltlib" width="200" />
-
 </p>
 <h2> AP9 Ablenkung und Beugung von Elektronen </h2> <!-- 2.3  -->
-<a href="Experiment_AP9/AP9.pdf">PDF Protokoll AP9</a>
+Korrelationüberprüfungen mit der ODR Funktion zum beweisen des Welle-Teilchen-Dualismus.<a href="Experiment_AP9/AP9.pdf">PDF Protokoll AP9</a>
+<p align="middle">
+  <img src="Experiment_AP9/e1.png" title="odr" width="200" />
+  <img src="Experiment_AP9/b1.png" title="odr" width="200" />
+  <img src="Experiment_AP9/g1.png" title="odr" width="200" />
+
+</p>
 
 <h2> AS1 Atomspektren </h2> <!-- 1.0  -->
  <a href="Experiment_AS1/AS1.pdf">PDF Protokoll AS1</a>
