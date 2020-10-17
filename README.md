@@ -77,7 +77,7 @@ Analyse der Spektrallinien von Wasserstoff und Natrium als auch bestimmung von e
 <p align="middle">
   <img src="Experiment_AS1/gitter_fix.png" title="odr" width="200" />
   <img src="Experiment_AS1/R_vac_fix.png" title="odr" width="200" />
-  <img src="Experiment_AS1/na_90.png" title="odr" height="200"/>
+  <img src="Experiment_AS1/na.png" title="odr" height="200"/>
 </p>
  
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
