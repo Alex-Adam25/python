@@ -1,0 +1,7 @@
+Infrarot	1,131
+Orange	1,84
+Rot	1,895
+Gelb	1,962
+Grün	2,03
+Blau	3,09
+Weiß	3,17
