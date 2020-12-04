@@ -1,0 +1,7 @@
+weiß 2.91
+blau 2.88
+grün 2.08
+gelb 2.02
+amber 1.88
+rot 1.9
+infrarot 1.1
