@@ -1,6 +1,6 @@
 Infrarot	1,131
-Orange	1,84
 Rot	1,895
+Orange	1,84
 Gelb	1,962
 Grün	2,03
 Blau	3,09
