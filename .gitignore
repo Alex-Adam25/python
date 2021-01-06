@@ -28,5 +28,6 @@ Experiment_AP9/.ipynb_checkpoints/arr2table_v3.2-checkpoint.ipynb
 Experiment_AP9/.ipynb_checkpoints/Teil1.2.3-checkpoint.ipynb
 .ipynb_checkpoints
 copernicus/data_eu_last_month.nc
+map/RKI_COVID19_2021_01_05.csv
 */*.nc
 */.ipynb_checkpoints/*
