@@ -1,0 +1,1411 @@
+Harmonische Schwingungen von Physikalischen und
+gekoppelten Pendeln
+Alexander Adam
+1946255
+
+Friedrich Jahns
+1960002
+
+Jan Lietz
+1922360
+
+3. März 2020
+
+1
+
+Ziel des Versuches
+
+Zielsetzung der Versuchsreihe ist es hier Das physikalische Pendel in einzelner und gekoppelter Form zu untersuchen. Während des Messens der Schwingungsdauer T in Abhängigkeit des
+maximalen Auslenkwinkels φ0 soll ein Bewusstsein für die Nährung durch einen harmonischen
+Ozillator bei kleinen Auslenkwinkeln geschaffen werden. Für das einzelne Pendel charakteristische Größen sind hierbei:
+• Das Trägheitsmoent θ
+• Richtmoment D
+Aus diesen Größen wird dann im Versuch T und die Erdbeschleunigung g bestimmt. Zudem werden zwei Pendel mit einer Stahlfeder verbunden und das gekoppelte Pendel untersucht. Nachdem
+die Federkonstante berechnet wurde werden anhand der Schwingungformen die Eigenfrequenzen
+und die Schwebungsfrequenzen bestimmt.
+
+2
+
+Verwendete Geräte
+• Tektronix TDS1001B Oszilloskop
+• Hameg-Instruments Netzteil
+• Pendel (∗2)
+• Pendel Signalgeber
+• Zylindergewichte (∗2)
+• Koppelfeder
+• Millisekunden-Digitaluhr
+• Kallibrierungsgewichte (10g, 20g, 50g, 100g)
+
+1
+
+3
+
+Theorie
+
+3.1
+3.1.1
+
+Physikalisches Pendel
+Beschreibung der Pendelbewegung
+
+Die Bewegung eines physikalischen Pendels wird beschrieben durch die Differentialgleichung
+d2 φ mgs
++
+sinφ = 0
+dt2
+θ
+
+(1)
+
+φ ist der Auslenkungswinkel des Pendels aus der Ruhelage
+m ist die Ruhemasse des Pendels
+g ist die Erdbeschleunigung
+θ ist das Trägheitsmoment des Pendels
+s ist der Abstand des Pendelschwerpunktes von der Drehachse
+Diese ergibt sich aus folgenden Formeln zur Berechnung des Drehmoments welches auf das Pendel
+wirkt
+M=r×F
+2
+
+M=θ ddtφ2
+
+
+
+
+0
+Daraus folgt für das Drehmoment für eine Kraft F = −mg  :
+0
+
+0
+M=rs (φ) × F = −mgd  0 
+sin(φ)
+
+
+Durch einige Umformungen ergibt sich daraus (1).
+Für kleine Winkel kann man folgende Näherung verwenden, welche sich aus der Taylorentwicklung des Sinus ergibt:
+sinφ = φ
+(2)
+Wendet man (2) in (1) an, erhält man:
+d2 φ mgs
+φ=0
++
+dt2
+θ
+
+(3)
+
+Diese lineare Differentialgleichung lässt sich mit folgendem Ansatz lösen:
+φ = Asinωt
+Damit erhält man für die Schwingdauer T:
+s
+T = 2π
+
+θ
+= 2π
+mgs
+2
+
+(4)
+
+r
+
+θ
+D
+
+(5)
+
+D = mgs :Richtmoment des Pendels
+
+Durch die Kleinwinkelnäherung (2) erhöht sich beim rechnen mit (5) mit wachsendem Winkel
+auch der Fehler wie folgt:
+φ0 = 2◦
+0, 0076%
+φ0 = 10◦
+0, 19%
+φ0 = 20◦
+0, 76%
+φ0 = 30◦
+1, 74%
+
+3.1.2
+
+Trägheitsmoment des Zylinders
+
+Für das Trägheitsmoment eines homogenen Zylinders der Masse M bezüglich seiner Achse A,
+welche orthogonal zur Figurenachse verläuft, gilt:
+θA =
+
+M h2
+( + r02 )
+4 3
+
+(6)
+
+h ist die Höhe des Zylinders
+r0 ist der Radius des Zylinders
+Nach dem Steinerschen Satz ergibt sich als Trägheitsmoment für eine Achse die Parallel zur
+Achse A verläuft:
+θ = θA + M R 2
+(7)
+Wobei R der Abstand der Achsen ist.
+
+3.2
+
+Gekoppelte Pendel
+
+Wir untersuchen ein System aus zwei gekoppelten Pendeln mit identischen Resonanzfrequenz ω0 .
+Diese werden mittels einer Spiralfeder verbunden. Somit gibt es in dem System eine Kraftübertragung
+entlang der Feder, welche mit dem Hooke’schen Gesetz folgt:
+FH = K(∆s0 + z(ϕa − ϕb ))
+
+(8)
+
+K ist die lineare Federkonstante
+∆s0 ist die Dehnung der Feder in Ruhelage
+z
+ist der Lastarm der Kopplung an den Pendeln
+Der konstante Teil dieser Kraft (F0 = K∆s0 ) ist lediglich in der Ruhelage ausschlaggebend und
+daher für das schwingende System irrelevant. Die Kraft welche die Energie zwischen den Pendeln austauscht ist daher nur Koppelkraft, welche dem anderen Teil des Gesetzes (8) folgt:FK =
+Kz(ϕa − ϕb )
+Die Bewegungsgleichung für ein physikalisches Pendel lautet:
+θ
+θ
+M
+
+d
+ϕ + M gsϕ = Next
+dt2
+
+ist das Trägheitsmoment des Pendels
+die Masse des Pendels
+3
+
+(9)
+
+s
+g
+
+ist der Abstand zwischen Schwerpunkt und Rotationsachse
+ist die Erdbeschleunigung
+
+Die Koppelkraft Wirkt auf das einzelne Pendel jeweils als externes Drehmoment Next mit einem
+Hebelarm z. Dies berücksichtigt ergibt sich für die separaten Bewegungsgleichungen der beiden
+Pendel:
+d
+ϕa + M gsϕa = Kz 2 (ϕb − ϕa )
+dt2
+d
+θ 2 ϕb + M gsϕb = Kz 2 (ϕa − ϕb )
+dt
+θ
+
+(10)
+2
+
+Benutzt man die Abkürzungen DR = M gs und DK = Kz , erhält man:
+d
+ϕa = DK (ϕb − ϕa ) − DR ϕa
+dt2
+d
+θ 2 ϕb = DK (ϕa − ϕb ) − DR ϕb
+dt
+θ
+
+(11)
+Dies ist ein gekoppeltes System linearer Differentialgleichungen. Führt man jedoch die folgende
+Koordinatentransformation durch:
+ψ1 = ϕa + ϕb ⇔ ϕa =
+
+1
+(ψ1 + ψ2 )
+2
+
+ψ2 = ϕa − ϕb ⇔ ϕb =
+
+1
+(ψ1 − ψ2 )
+2
+(12)
+
+so erhält man die entkoppelten Gleichungen:
+θ
+
+d
+ψ1 = −DR ψ1
+dt2
+
+θ
+
+d
+ψ2 = −(DR + 2DK )ψ2
+dt2
+(13)
+
+welche auf folgende Lösungen führen:
+ψ1 (t) = A1 sin(ω1 t + ϑ1 )
+
+ψ2 (t) = A2 sin(ω2 t + ϑ2 )
+(14)
+
+Die freien Parameter A1 , A2 , ϑ1 und ϑ2 werden durch die Anfangsbedingungen ϕa (0),
+d
+und dt
+ϕb (0) festgelegt.
+Die Frequenzen ω1 und ω2 der beiden Eigenschwingungen ergeben sich zu:
+r
+r
+DR
+DR + 2DK
+= ω0 und
+ω2 =
+>ω0
+ω1 =
+θ
+θ
+
+d
+dt ϕa (0), ϕb (0)
+
+(15)
+
+4
+
+Der Kopplungsfaktor wird als charakteristische Größe dieser Frequenzaufspaltung definiert:
+κ=
+
+ω22 − ω12
+ω22 + ω12
+
+(16)
+
+Will man außer über die Eigenfrequenzen auch Aussagen über die Eigenschwingungen treffen, so
+muss man die gefundene Lösung mithilfe von (12) zurücktransformieren:
+ϕa (t) =
+
+1
+((A1 sin(ω1 t+1 ) + A2 sin(ω2 t+2 )))
+2
+
+ϕb (t) =
+
+1
+(A1 sin(ω1 t+1 ) − A2 sin(ω2 t+2 ))
+2
+(17)
+
+Daraus lässt sich das aussehen der Eigenschwingungen erkennen. Die erste Eigenschwingung mit
+der Frequenz ω1 (das heißt A1 = 2A und A2 = 0) hat:
+ϕa (t) = Asin(ω1 t+1 )
+
+ϕb (t) = Asin(ω1 t+1 )
+⇒ ϕa (t) = ϕb (t)
+(18)
+
+Die Auslenkungen ϕa und ϕb sind gleich weswegen die Frequenz ω1 auch der Frequenzω0 der
+ungekoppelten Pendel entspricht. Mögliche Anfangsbedingungen zu diesem Fall wären:
+d
+d
+ϕa (0) = ϕb (0) = 0
+dt
+dt
+
+ϕa (0) = ϕb (0)
+
+(19)
+Die zweite Eigenschwingung mit der Frequenz ω2 (das heißt A1 = 0 und A2 = 2A) hat:
+ϕb (t) = −Asin(ω2 t+2 )
+
+ϕa (t) = Asin(ω2 t+2 )
+
+⇒ ϕa (t) = −ϕb (t)
+(20)
+Die Auslenkungen ϕa und ϕb sind gegensätzlich also schwingen beide Pendel gegeneinander. Die
+Koppelfeder wird im Zuge der Schwingung ausgelenkt und verursacht eine etwas höhere Frequenz,
+weswegen ω2 >ω0 . Mögliche Anfangsbedingungen zu diesem Fall wären:
+d
+d
+ϕa (0) = ϕb (0) = 0
+dt
+dt
+
+ϕa (0) = −ϕb (0)
+
+(21)
+Ein Spezialfall ist die so genannte Schwebung, welche auftritt wenn A1 = A2 = 2A ist. Für die
+Amplituden gilt dann:
+ϕa (t) = A(sin(ω1 t+1 ) + sin(ω2 t+2 ))
+
+ϕb (t) = A(sin(ω1 t+1 ) + sin(ω2 t+2 ))
+(22)
+
+Unter Anwendung der Additionstheoreme ergibt sich daraus:
+ϕa (t) = 2A(sin(ω+ t++ ) + cos(ω− t+− ))
+
+ϕb (t) = 2A(cos(ω+ t++ ) + sin(ω− t+− ))
+5
+
+(23)
+Dabei wurden folgende Abkürzungen verwendet:
+ω+ =
+
+ω1 + ω2
+2
+
+ϑ+ =
+
+ϑ 1 + ϑ2
+2
+
+ω− =
+
+ω1 − ω2
+2
+
+ϑ− =
+
+ϑ1 − ϑ 2
+2
+(24)
+
+Hinweis: Mit ω2 >ω1 ist ω− . Da für T− und ω− nur Positive Werte gemessen werden, soll dieses
+Minuszeichen ignoriert werden. Der Koppelfaktor κ ist eine Positive Zahl, daher −2ω+ ω− in (??).
+Die Pendel schwingen quasiharmonisch mit der Frequenz ω+ , die Amplitude wird dabei moduliert mit der frequenz ω− . Dies ist insbesondere für ω−  ω+ sehr anschaulich. Die beiden
+pendel sind dabei was Schwingung und Modulation betrifft um π2 phasenverschoben. Die Schwingungsenergie wechselt dabei mit der Frequenz ω− zwischen den Pendeln hin und her. Dies lässt
+sich besonders gut bei ω−  ω+ erkennen und messen. Ausserdem lässt sich aus der Schwebung
+der Kopplungsfaktor κ bestimmen:
+κ=
+
+−2ω+ ω−
+ω22 − ω12
+= 2
+2
+ω22 + ω12
+ω+ + ω−
+
+(25)
+
+Mögliche Anfangsbedingungen zu diesem Fall wären:
+ϕa (0) = A
+
+ϕb (0) = 0 und
+
+d
+d
+ϕa (0) = ϕb (0) = 0
+dt
+dt
+(26)
+
+6
+
+4
+4.1
+
+Aufbau und Durchführung
+Aufbau der Versuchsreihe
+
+Abbildung 1: http://www.atlas.uni-wuppertal.de/ kind/M15neu20.pdf
+Für diese Versuchsreihe werden zwei identische physikalische Pendel verwendet, die jeweils an
+ihrer Drehachse einen Signalgeber haben, welche ein zu Auslenkung proportionales elektrisches
+Signal aussendet. Dieser muss an eine Gleichspannungsquelle angeschlossen werden die 20 Volt
+ausgibt. An den Pendeln hängt jeweils in Abstand von ca. 1 m von Aufhängepunkt eine Masse,
+daher beträgt ihre Schwingungsdauer ungef. 2sec Zur Aufzeichnung der Messwerte wird ein Speicherozilloskop verwendet und diese auf einen USB-Stick gespeichert. Bei diesem Oszilloskop eine
+Skala von ca. 200 mV pro Kästchen auf der Ordinate und eine Schwebungsmessung von ca. 10s
+pro Kästchen auf der Abszisse eingestellt. Um die beiden Pendel zu einem gekoppelten Pendel
+zu verbinden wird eine Spiralfeder verwendet die dem Hookschen Gesetz auch bei stärkeren Auslenkungen noch entspricht und im Abstand z unter dem Aufhängepunkt der Pendel angebracht.
+Für die Messung der Schwingungsdauer eines einzelnen Pendels ist die Auflösung des Speicheroszilloskops zu ungenau, deswegen wird für diesen Versuch eine Gleitlichtschranke verwendet die
+durch das Gewichtsstück geht. Diese Lichtschranke steuert eine Millisekunden-Digitaluhr.
+
+7
+
+4.2
+
+Durchführung
+
+.
+4.2.1
+
+Abhängigkeit der Schwingungsdauer vom Auslenkungswinkel
+
+Bei diesem Versuch wird die Schwingungsdauer T in Abhängigkeit von der maximalen Auslenkung φ0 . Dann trägt man T gegen sin2 ( φ20 ). Um in einem späteren Versuchsteil die Erdbeschleunigung anhand des Pendels.
+4.2.2
+
+Bestimmung der Erdbeschleunigung
+
+Bei diesem Versuch wird zunächst das Trägheitsmoment des roten Gewichtsstück anhand des zuvor gemessenen Durchmessers und Dicke und der Masse bezüglich der Symmetrieachse berechnet.
+Die dünne Gewindestange wird zunächst vernachlässigt und angenommen dass die ganze Masse
+(Gewindestange und Gewicht) auf einen einfachen Zylinder verteilt ist. Dann wird der die Länge
+der Der Pendelstange gemessen und mithilfe des Steinerschen Satzes dessen Trägheitsmoment
+bei Pendel berechnet. Anschließend muss noch das Trägheitsmoment des Pendelstabes berechnet
+werden. Da man die Masse aufgrund der Motierung in ein Gehäuse nur schwer und ungenau
+bestimmen kann wurde diese im Skript angegeben. Die Stange hat eine Masse von m = 110 g
+und eine Länge von h = 92 cm. Der Stangendurchmesser wird selbst vermessen und daraus mit
+r = d2 bestimmt. Das Trägheitsmoment einer Stange die sich um eines ihrer Enden dreht kann
+2
+2
+mit Θ = m( h3 + r4 ) bestimmt werden. Der Schwerpunkt der Stange bestimmt hier das Richtmoment D, welches mit D = mgs berechnet wird. Die bereits bestimmte Schwingungsdauer T wird
+für eine unendlich kleine Auslenkung extrapoliert und mithilfe des Gesamtträgheitsmomentes
+das Richtmoment D und somit unter Kenntnis der Gesamtmasse auch die Erdbeschleunigung g
+berechnet werden.
+4.2.3
+
+Ausmessen der Koppelfeder
+
+Nun soll die Federkonstante K der verwendeten Koppelfeder bestimmt werden. Hierzu werden
+Gewichte angehängt die, um die Feder nicht zu beschädigen nicht schwerer als 100g sein sollten
+Die Federkonstante wird dann mithilfe der Formel k = −mg
+y mit y als Federweg bestimmt. Es wird
+erwartet dass die Auslenkung sich proportional zur Erhöhung der angehängten Masse vergrößert.
+4.2.4
+
+Vorbereitung für gekoppelte Schwingung
+
+Um zu gewährleisten dass bei Massen identische Schwingungsdauern haben könne die Massen
+über eine Gewindestange mit der sie verbunden sind in die Pendelstange hinein-bzw herausgeschraubt werden bis sie exakt gleich weit vom Halterungsgehäuse entfernt sind. Diese müssen
+allerdings mindestens drei Umdrehung in die Stange hineingedreht sein um ein herausfallen zu
+vermeiden. Nun werden beide Pendel ohne Kopplungsfeder betrachtet und die Frequenz ω0 des
+mit dem Ozilloskop verbundenen Pendels gemessen. Und die gemessene mit der berechneten verglichen. Durch gleichzeitiges Auslenken der beiden Pendel wird überprüft ob eine gleiche Schwingungsdauer vorliegt und ggf. das zweite nicht mit dem Oszilloskop verbundene Pendel angepasst.
+Dies gescheit da ωa &ωb gleich seien müssen während die Trägheitsmomente und Richtmomente
+dies nicht seien müssen aufgrund der Selben vorm der Pendel.
+
+8
+
+4.2.5
+
+Kopplung der Pendel
+
+Bei diesem Versuch werden die Pendel durch eine Feder die 50 cm unter der Aufhängung der
+Pendel eingehängt wird verbunden. Die erwartete Schwebungsdauer solle nicht über 300s liegen
+da
+lim T− < 300s
+(27)
+z→0
+
+ist Dann werden die Eigenfrequenzen über mindestens 20 Schwingungsperoiden gemessen um eine
+klare Aussage über die Eigenschwingung treffen zu könne da sonst der Beobachtungzeitraum zu
+kurz wäre um eine Regelmäßigkeit festzustellen.Anschließend die gemessene Frequenz mit dem
+berechneten Wert vergleichen.
+4.2.6
+
+Anregung der Schwebungen
+
+Nun wird eine Schwebung angeregt und die pseudoharmonische Frequenz ω+ , sowie die Modulationfrequenz ω− Außerdem muss geprüft werden ob der daraus berechnete Koppelfaktor K
+mit dem zuvor berechneten Koppelfaktor übereinstimmt. Zudem wird auch hier ein Vergleich
+zwischen gemessener und zuvor berechneter Frequenz durchgeführt
+4.2.7
+
+Unterschiedliche Koppelfaktoren
+
+Abschließend wird der Abstand der Kopplungsfeder zum Aufhängungspunkt der Pendel variiert
+und dann erneut eine Schwebungsschwingung angeregt und die pseudoharmonische Frequenz
+ω+ , sowie die Modulationfrequenz ω− gemessen. Wie in Versuch 4.2.6 wird der Koppelfaktor K
+auf Übereinstimmung geprüft und ein Vergleich zwischen berechneter und erwarteter Frequenz
+durchgeführt. Dieser Prozess wir dann für einen weiteren Abstand z erneut vollzogen.
+
+9
+
+5
+
+Fehlerrechnung
+
+Zur Bestimmung der Standardfehler werden die Formeln (28) & (29) benutzt.
+σ
+∆= √
+n
+v
+u
+u
+σ=t
+
+(28)
+
+n
+
+1 X
+(xi − µ)2
+n − 1 i=1
+
+(29)
+
+Bei diesen Formeln bezieht sich n auf die Anzahl der Stichproben, xi auf die individuellen Stichproben und µ auf den Mittelwert der Stichproben.
+Zur Berechnung jeglicher weitere Fehler wird die Gauß’sche Fehlerfortpflanzung benutzt
+s 
+ 2
+2
+∂f
+∂f
+(∆x)2 +
+(∆y)2 + ...
+(30)
+∆=
+∂x
+∂y
+
+5.1
+5.1.1
+
+Physikalisches Pendel
+Federkostante
+s
+
+2
+∂K
+∆s
+∂s
+
+(31)
+
+−g∆s
+s2
+
+(32)
+
+∆K =
+∆K =
+5.1.2
+
+Trägheitsmomente
+s
+∆θA =
+
+∂θA
+∆mz
+∂mz
+
+2
+
+
++
+
+∂θA
+∆hz
+∂hz
+
+2
+
+
++
+
+∂θA
+∆dz
+∂dz
+
+2
+(33)
+
+s
+
+
+2 
+2 
+2
+d2z
+h2z ∆mz
+hz mz ∆hz
+dz mz ∆dz
++
++
++
+∆θA =
+4
+3
+4
+6
+8
+q
+2
+2
+2
+∆θZ = (∆θA ) + (R2 ∆mz ) + (2mz R∆R)
+s
+2 
+2 
+2
+∂θs
+∂θs
+∂θs
+∆θs =
+∆ms +
+∆hs +
+∆ds
+∂ms
+∂hs
+∂ds
+
+(34)
+(35)
+(36)
+
+Da ∆hs & ∆ms vernachlässigbar sind lässt sich (36) vereinfachen.
+∆θs =
+
+ms ds ∆ds
+8
+
+(37)
+
+∆m = ∆mZ da ∆ms = 0
+∆θ =
+
+p
+
+(∆θz )2 + (θs )2
+
+10
+
+(38)
+
+5.1.3
+
+Richtmoment
+v
+!2 
+u  2
+2
+u
+2π
+8π 2 θ
+t
+∆θ + − 3 ∆T
+∆D =
+T
+T
+
+5.1.4
+
+Schwerpunkt
+s
+∆s =
+
+∂s
+∆mz
+∂mz
+
+2
+
+
++
+
+∂s
+∆sz
+∂sz
+
+2
+
+
++
+
+∂s
+∆ms
+∂ms
+
+(39)
+
+2
+
+
++
+
+∂s
+∆ss
+∂ss
+
+2
+(40)
+
+da ∆ms = ∆ss = 0
+s
+∆s =
+5.1.5
+
+5.2
+5.2.1
+
+ms (sz − ss )
+∆mz
+(mz + ms )2
+
+2
+
+mz
+∆sz
+mz + ms
+
+(41)
+
+(42)
+
+(43)
+
+Gekoppelte Pendel
+Winkelfrequenz
+∆ω =
+s
+∆ω =
+
+5.2.3
+
+
++
+
+Gravitationskonstante
+s
+2 
+2 
+2
+∂g
+∂g
+∂g
+∆g =
+∆D +
+∆s +
+∆m
+∂D
+∂s
+∂m
+s
+2 
+2 
+2
+1
+D
+D
+∆g =
+∆D + − 2 ∆s + − 2 ∆m
+ms
+ms
+m s
+
+s
+
+5.2.2
+
+2
+
+2 
+2 
+2
+∂g
+∂g
+∂g
+∆s +
+∆m +
+∆θ
+∂s
+∂m
+∂θ
+
+(44)
+
+ r
+2  r
+2  r
+2
+1 gm
+mgs
+1 gs
+∆s +
+∆m + −
+∆θ
+2 θs
+2 θm
+θ3
+
+(45)
+
+Richtmomente
+∆DR =
+
+p
+
+∆DK =
+
+p
+
+(gs∆m)2 + (gm∆s)2
+
+(46)
+
+(z 2 ∆K)2 + (2zk∆z)2
+
+(47)
+
+Eigenfrequenzen
+v q
+u
+2  q
+2
+u
+DR
+DR
+∆D
+∆θ
+u
+R
+θ
+θ
+ + −
+
+∆ω1 = t
+2DR
+2θ
+v
+u
+u
+u
+∆ω2 = u
+t
+
+2
+2θ
+
+∆D
+q R
+
+2DK +DR
+2θ
+
+2
+
+
+
+ +
+2θ
+
+∆D
+q K
+
+2DK +DR
+θ
+
+11
+
+ q
+
+ + −
+
+(48)
+
+2DK +DR
+∆θ
+θ
+
+2θ
+
+2
+
+
+(49)
+
+5.2.4
+
+Kopplungsfaktor
+s
+∆κ12 =
+s
+∆κ+− =
+
+5.2.5
+
+
+
+−4ω1 ω22 ∆ω1
+(ω12 + ω22 )2
+
+2
+
+2 − ω 2 )∆ω
+2ω− (ω+
++
+−
+2
+2
+2
+(ω+ + ω− )
+
++
+2
+
+∆ω+ = ∆ω− =
+
+6.1
+
+−4ω12 ω2 ∆ω2
+(ω12 + ω22 )2
+
+
++
+
+2
+(50)
+
+2 − ω 2 )∆ω
+2ω+ (ω+
+−
+−
+2
+2
+2
+(ω+ + ω− )
+
+2
+(51)
+
+Schwebung
+r
+
+6
+
+
+
+1
+(∆ω12 + ∆ω22
+4
+
+(52)
+
+Ergebnisse des Physikalischen Pendels
+Schwingungsdauer
+Grad
+T
+∆T
+ω
+∆ω
+
+2◦
+2.051 s
+0.0012 s
+3.063 rad s−1
+0.0018 rad s−1
+
+10◦
+2.052 s
+0.0018 s
+3.062 rad s−1
+0.0027 rad s−1
+
+20◦
+2.067 s
+0.0015 s
+3.040 rad s−1
+0.0022 rad s−1
+
+30◦
+2.083 s
+0.0014 s
+3.017 rad s−1
+0.0021 rad s−1
+
+Abbildung 2
+Durch eine Extrapolation der Messwerte lässt sich ein Wert T = 2.050 s ± 0 s bestimmen bei
+welchem die Kleinwinkelnährung verfällt.
+
+12
+
+6.2
+
+Gravitationskonstante
+
+6.2.1
+
+Wert
+Fehler
+
+Trähheitsmomente
+Höhe
+0.0259 m
+0.000 05 m
+
+Durchmesser
+0.0801 m
+0.000 05 m
+
+Masse
+1 kg
+0.005 kg
+
+θA
+0.000 457 kgm2
+0 kgm2
+
+Abstand zur Drehachse
+1.0451 m
+0.000 05 m
+
+θZ
+1.0927 kgm2
+0.005 56 kgm2
+
+Tabelle 1: Zylinder
+
+Wert
+Fehler
+
+Höhe
+0.92 m
+0m
+
+Durchmesser
+0.0081 m
+0.000 05 m
+
+Masse
+0.11 kg
+0 kg
+
+θS
+0.031 03 kgm2
+0 kgm2
+
+Tabelle 2: Stab
+Es ergibt sich ein Gesamtträgheitsmoment θ von 1.1237 kgm2 ±0.005 56 kgm2
+
+Wert
+Fehler
+
+Auslenkung
+0◦
+0◦
+
+T
+2.050 s
+0.000 052 s
+
+θ
+1.1237 kgm2
+0.005 56 kgm2
+
+Gesamtmasse
+1.11 kg
+0.005 kg
+
+Schwerpunkt
+0.987 m
+0.000 44 m
+
+Gravitationskonstante
+9.6343 m/s2
+0.0646 m/s2
+
+Tabelle 3: Gravitationskonstante
+
+6.3
+
+Feder
+
+Zur Bestimmung der Federkonstante wurde die Erdbeschleunigung g als 9.81 m/s2 angenommen
+Gewicht in kg
+0
+0,01
+0,02
+0,05
+0,10
+
+Auslenkung in m
+0,164
+0,196
+0,226
+0,32
+0,472
+
+13
+
+∆
+0
+0,032
+0,062
+0,156
+0,308
+
+7
+z
+T1
+w1
+T2
+w2
+T+
+w+
+T−
+w−
+κ12
+κ+−
+
+Ergebnisse der Gekoppelten Pendel
+
+0.5 m
+1.995 s ± 0.001 s
+3.149 s−1 ± 0.002 s−1
+1.934 s ± 0.001 s
+3.249 s−1 ± 0.002 s−1
+1.940 s ± 0.001 s
+3.239 s−1 ± 0.017 s−1
+60.4 s ± 0.01 s
+0.104 s−1 ± 0 s−1
+0,031±0,001
+0,064±0,000
+
+8
+8.1
+
+0.4 m
+1.989 s ± 0.001 s
+3.159 s−1 ± 0.002 s−1
+1.972 s ± 0.001 s
+3.186 s−1 ± 0.002 s−1
+2.000 s ± 0.001 s
+3.144 s−1 ± 0.016 s−1
+87.2 s ± 0.01 s
+0.072 s−1 ± 0 s−1
+0,009±0,001
+0,046±0,000
+
+0.3 m
+2.010 s ± 0.001 s
+3.126 s−1 ± 0.002 s−1
+2.002 s ± 0.001 s
+3.138 s−1 ± 0.002 s−1
+2.000 s ± 0.001 s
+3.142 s−1 ± 0.016 s−1
+156 s ± 0.01 s
+0.040 s−1 ± 0 s−1
+0,004±0,001
+0,026±0,000
+
+Auswertung
+
+Gravitationskonstante
+
+Die Gravitationskonstante g wurde bestimmt durch auflösen der Gleichung 5 nach g. Die
+Statistische Abweichung von g zu 9,81m/s2 befindet sich in einem akzeptablem Rahmen.
+
+8.2
+
+Feder
+
+Die Steigung der Regressionsgeraden entspricht der Federkonstante.
+
+Sie beträgt K = 3.08 kg/s2 ± 0.01 kg/s2
+
+8.3
+
+Frequenz der aufgebauten physikalischen Pendel
+
+Die Berechnung der theoretischen Frequenz ω erfolgt durch Umstellung der Gleichung 5 unter
+Verwendung von ω = 2π/T . Es ergibt sich
+r
+mgs
+ω=
+(53)
+θ
+14
+
+Nach dieser Formel beträgt das theoretische ω3.093 s−1 .Der Theoretische Wert weicht mit den
+berechneten Werten aus der Tabelle der Schwingdauer nur in der zweiten Nachkommastelle ab.
+
+8.4
+
+Kopplung der Pendel
+
+Um T− zu berechnen muss zunächst ω− bestimmt werden.ω− wiederum ist definiert als die
+Differenz aus ω1 undω2 geteilt durch 2. (53) gibt ω1 während
+r
+(mgs + 2(Kz 2 )
+(54)
+θ
+ω2 gibt.
+
+8.5
+
+Gekoppelte Pendel
+
+Zur Berechnung der folgenden Werte wurden diese charakteristischen Größen genommen:
+m
+s
+θ
+g
+K
+1.11 kg ± 0.005 kg 0.987 m ± 0.0005 m 1.123 kgm2 ± 0.005 kgm2 9.81 m/s2 3.08 kgs2 ± 0.035 kgs2
+
+T1
+w1
+T2
+w2
+T+
+w+
+T−
+w−
+κ12
+κ+−
+
+Messung
+1.995 s ± 0.001 s
+3.149 s−1 ± 0.002 s−1
+1.934 s ± 0.001 s
+3.249 s−1 ± 0.002 s−1
+1.940 s ± 0.001 s
+3.239 s−1 ± 0.017 s−1
+60.4 s ± 0.01 s
+0.104 s−1 ± 0 s−1
+0,031±0,001
+0,064±0,000
+
+Berechnet
+2.050 s ± 0.0052 s
+3.065 s−1 ± 0.0078 s−1
+1.915 s ± 0.005 s
+3.281 s−1 ± 0.009 s−1
+1.980 s ± 0.004 s
+3.173 s−1 ± 0.006 s−1
+58.189 s ± 3.109 s
+0.108 s−1 ± 0.006 s−1
+0,068±0,004
+0,068±0,004
+
+Tabelle 4: Vergleich von z = 0.5
+
+T1
+w1
+T2
+w2
+T+
+w+
+T−
+w−
+κ12
+κ+−
+
+Messung
+1.989 s ± 0.001 s
+3.159 s−1 ± 0.002 s−1
+1.972 s ± 0.001 s
+3.186 s−1 ± 0.002 s−1
+2.000 s ± 0.001 s
+3.144 s−1 ± 0.016 s−1
+87.2 s ± 0.01 s
+0.072 s−1 ± 0 s−1
+0,009±0,001
+0,046±0,000
+
+Berechnet
+2.050 s ± 0.0052 s
+3.065 s−1 ± 0.002 s−1
+1.961 s ± 0.005 s
+3.205 s−1 ± 0.008 s−1
+2.004 s ± 0.004 s
+3.135 s−1 ± 0.006 s−1
+89.831 s ± 7.31 s
+0.070 s−1 ± 0.006 s−1
+0,045±0,004
+0,045±0,004
+
+Tabelle 5: Vergleich von z = 0.4
+
+15
+
+DR
+10.5 J ± 0.01 J
+
+z
+T1
+w1
+T2
+w2
+T+
+w+
+T−
+w−
+κ12
+κ+−
+
+Messung
+2.010 s ± 0.001 s
+3.126 s−1 ± 0.002 s−1
+2.002 s ± 0.001 s
+3.138 s−1 ± 0.002 s−1
+2.000 s ± 0.001 s
+3.142 s−1 ± 0.016 s−1
+156 s ± 0.01 s
+0.040 s−1 ± 0 s−1
+0,004±0,001
+0,026±0,000
+
+Berechnet
+2.050 s ± 0.005 s
+3.065 s−1 ± 0.008 s−1
+1.998 s ± 0.005 s
+3.144 s−1 ± 0.008 s−1
+2.024 s ± 0.004 s
+3.105 s−1 ± 0.006 s−1
+158.1 s ± 22.43 s
+0.040 s−1 ± 0.006 s−1
+0,026±0,001
+0,026±0,001
+
+Tabelle 6: Vergleich von z = 0.3
+Aus dem Vergleich der Messwerte wird erkennbar ,dass alle Messungen im Rahmen der Berechneten Werte liegen. Die einzige drastische Ausnahme stellt K12 dar, denn die gemessenen
+Werte liegen,im Gegensatz zu K+− ,zu weit außerhalb der Fehler der berechneten Werte. Vermutlich ist dies ein Resultat der hohen Genauigkeitsanforderungen von K12 an T1 &T2 .
+8.5.1
+
+Koppelabstände und Koppelfaktoren
+
+Abbildung 3: κ(z 2 )
+Durch kombinieren der Funktionen 25,24,15 ergibt sich:
+K=−
+
+DR ∗ κ
+(κ − 1) ∗ z 2
+
+(55)
+
+Durch anwenden der Formel auf die einzelne Messungen der κ’s ergeben sich folgende Werte für
+die Federkonstante K Es ist klar erkennbar, dass je weiter sich z an 0 annähert,desto besser die
+Federkonstante mit der zuvor bestimmten Übereinstimmt. Es lässt sich somit folgern, dass die
+Ursprüngliche Vermessung der Federkonstate akkurat war
+
+16
+
+z
+0,3
+K
+2.93 kg/s2 ±0.02 kg/s2
+
+0,5
+
+0,4
+
+2.54 kg/s2 ±0.01 kg/s2
+
+2.89 kg/s2 ±0.01 kg/s2
+
+Tabelle 7: Caption
+
+9
+
+Zusammenfassung
+
+Aus den Messungen Ergibt sich für T ein nahezu konstanter Wert mit T = 2 ± 0.005 Was für die
+extreme Präzision der Pendel spricht, daher lässt sich darauf schließen, dass die Reibung Vernachlässigbar ist. Diese Präzision erlaubt ebenfalls eine genaue Messung der Erdbeschleunigung
+mit g = 9, 63. Die gemessene Federkonstante ist über 2 verschiedene Messmethoden annähernd
+identisch. Bis auf κ12 stimmen die Gemessenen werte annähernd mit den errechneten werten
+überein Was die Präzision des Pendels zusätzlich bestätigt. Anzumerken ist das Erfahrung im
+Umgang mit Oszilloskop ratsam ist mit in den Versuch zu bringen
+
+10
+
+Anhang
+
+Abbildung 4: Z=50cm Aufnahme von T−
+
+17
+
+Abbildung 5: Z=40cm Aufnahme von T−
+
+Abbildung 6: Z=30cm Aufnahme von T−
+
+18
+
+Abbildung 7: Z=50cm Aufnahme von T+
+
+19
+
+
