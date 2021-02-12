@@ -19,4 +19,5 @@ print(date)
 opener = urllib.request.build_opener()
 opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 urllib.request.install_opener(opener)
-urllib.request.urlretrieve(dl_link, f"{date}.xlsx")
+path='impf'+"\\"+f"{date}.xlsx"
+urllib.request.urlretrieve(dl_link, path)

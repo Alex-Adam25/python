@@ -1,0 +1,4 @@
+072a941a6a2f5ab38c74b5a0bf878192-28d78af2-46b15190
+https://api.mailgun.net/v3/sandbox02d8686f5e9b42ad94b7aab98545a2dd.mailgun.org
+mr.wgsda42@gmail.com
+postmaster@sandbox02d8686f5e9b42ad94b7aab98545a2dd.mailgun.org
