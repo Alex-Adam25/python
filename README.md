@@ -3,9 +3,9 @@ Physik mit Python fängt ganz vorne an(bezogen auf Python) und befasst sich mit 
 Ab dem zweiten Kapitel gibt es stets eine Handvoll Aufgaben, welche meist auf in diesem Kapitel vorgestellten Programmen und Konzepten beruhen. Im Folgenden sind die jeweils interessante und visuell ansprechende Ergebnis der Aufgaben präsentiert.
 
 ## Kapitel 2: Einführung in Python
-i) Primzahlfindung mittels des Algoritmus 'Sieb des Eratosthenes'. Das gif zeigt die Funktionsweise(von Wikipedia)
-ii) Erzeugung einer Rechteckwelle durch überlagerung von Sinus Wellen
-iii) effizente Flächenberechnung eines Polygon
+i) Primzahlfindung mittels des Algoritmus 'Sieb des Eratosthenes'. Das gif zeigt die Funktionsweise(von Wikipedia)  
+ii) Erzeugung einer Rechteckwelle durch überlagerung von Sinus Wellen  
+iii) effizente Flächenberechnung eines Polygon  
 <p align="middle">
   <img src="Physik_mit_Python/kap2/Animation_Sieb_des_Eratosthenes.gif " title="i" width="200" />
   <img src="Physik_mit_Python/kap2/rechteck_mit_sinus.gif" title="ii" width="300" />
@@ -13,8 +13,8 @@ iii) effizente Flächenberechnung eines Polygon
 </p>  
 
 ## Kapitel 3: Physikalische Größen und Messungen
-i) Fit an 𝐹 =𝑏|𝑣|^𝑛 mit `scipy.optimize.curve_fit`
-ii) Fit an 𝐴=𝐴0*𝑓0^2/sqrt((𝑓^2−𝑓0^2)^2+(𝛿𝑓/𝜋)^2) mit `scipy.optimize.curve_fit` und berücksichtigung der Fehler
+i) Fit an 𝐹 =𝑏|𝑣|^𝑛 mit `scipy.optimize.curve_fit`  
+ii) Fit an 𝐴=𝐴0*𝑓0^2/sqrt((𝑓^2−𝑓0^2)^2+(𝛿𝑓/𝜋)^2) mit `scipy.optimize.curve_fit` und berücksichtigung der Fehler  
 
 <p align="middle">
   <img src="Physik_mit_Python/kap3/fit1.png " title="i" width="300" />
