@@ -84,13 +84,14 @@ Analyse der Spektrallinien von Wasserstoff und Natrium als auch bestimmung von e
 <h2> EP2 Diode </h2>
 Aufnehmen von Kennlinien und Darstellung in Python unter Verwendung verschiedener Achsenskalierungen(linear/logarithmisch). <a href="Laborpraktika/Experiment_EP2/EP2_Jahns_Adam.pdf">PDF Protokoll EP2</a>
 
-
 <p align="middle">
-  
   <img src="Laborpraktika/Experiment_EP2/z_np_lin.png" title="kenn" width="200" />
   <img src="Laborpraktika/Experiment_EP2/z_np_log.png" title="kenn" width="200" />
-  <img src="Laborpraktika/Experiment_EP2/mess.theo.png" title="mess.theo" width="200" />
+  <img src="Laborpraktika/Experiment_EP2/mess.theo.png" title="mess.theo" width="400" />
 </p>
+
+<h2> EP3 Transistor </h2>
+Aufnehmen von Kennlinien und Darstellung in Python als auch einfache Fits . <a href="Laborpraktika/Experiment_EP3/EP3_Jahns_Adam.pdf">PDF Protokoll EP2</a>
 
 
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
