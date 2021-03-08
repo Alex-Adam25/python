@@ -79,7 +79,21 @@ Analyse der Spektrallinien von Wasserstoff und Natrium als auch bestimmung von e
   <img src="Laborpraktika/Experiment_AS1/R_vac_fix.png" title="odr" width="200" />
   <img src="Laborpraktika/Experiment_AS1/na.png" title="odr" height="200"/>
 </p>
- 
+
+
+<h2> EP2 Diode </h2>
+Aufnehmen von Kennlinien und Darstellung in Python unter verwendung verschiedener Achsenskalierungen(linear/logarithmisch)
+
+
+<p align="middle">
+  
+  <embed src="Laborpraktika/Experiment_EP2/z_np_lin.pdf" title="kenn" width="200" />
+  <img src="Laborpraktika/Experiment_EP2/z_np_lin.pdf" title="kenn" width="200" />
+  <img src="Laborpraktika/Experiment_EP2/z_np_log.pdf" title="kenn" width="200" />
+  <img src="Laborpraktika/Experiment_EP2/mess.theo.pdf" title="mess.theo" width="200" />
+</p>
+
+
 <h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
 Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
 <p align="middle">
