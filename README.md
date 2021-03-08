@@ -28,10 +28,10 @@ iii) Simulation eines Fadenspendel mit Kleinwinkelnäherung
 iv) Simulation des "Affenschuss"
 
 <p align="middle">
-  <img src="Physik_mit_Python/kap4/hund_kreis_kurve.gif " title="i" width="200" />
-  <img src="Physik_mit_Python/kap4/boot_kurve.gif " title="ii" width="200" />
-  <img src="Physik_mit_Python/kap4/fadenpendel.gif " title="iii" width="200" />
-  <img src="Physik_mit_Python/kap4/fallender_Affe.gif " title="iv" width="200" />
+  <img src="Physik_mit_Python/kap4/hund_kreis_kurve.gif " title="i" width="400" />
+  <img src="Physik_mit_Python/kap4/boot_kurve.gif " title="ii" width="400" />
+  <img src="Physik_mit_Python/kap4/fadenpendel.gif " title="iii" width="400" />
+  <img src="Physik_mit_Python/kap4/fallender_Affe.gif " title="iv" width="400" />
 </p>  
 
 
@@ -39,10 +39,10 @@ iv) Simulation des "Affenschuss"
 ## M15 Harmonische Schwingungen von Physikalischen und gekoppelten Pendeln <!-- 2.0 -->
 Allgemeine Fits mit <code>scipy.stats.linregress</code> als auch ein Fit mit `lmfit`(rechtes bild) welches sehr fortgeschritten ist (Zur installation in Anaconda3: `conda install -c conda-forge lmfit`). <a href="Laborpraktika/Experiment_M15/m15.pdf">PDF Protokoll M15</a>  
 <p align="middle">
-  <img src="Laborpraktika/Experiment_M15/feder.png" title="linregress" width="400" />
-  <img src="Laborpraktika/Experiment_M15/kopplung.png" title="linregress" width="400" /> 
-  <img src="Laborpraktika/Experiment_M15/sin.png" title="linregress" width="400" />
-  <img src="Laborpraktika/Experiment_M15/lmfit.png" title="lmfit" width="400" />
+  <img src="Laborpraktika/Experiment_M15/feder.png" title="linregress" width="200" />
+  <img src="Laborpraktika/Experiment_M15/kopplung.png" title="linregress" width="200" /> 
+  <img src="Laborpraktika/Experiment_M15/sin.png" title="linregress" width="200" />
+  <img src="Laborpraktika/Experiment_M15/lmfit.png" title="lmfit" width="200" />
 </p>  
 
 <h2> T3 Bestimmung der spezifischen Wärmekapazität und Schmelzwärme </h2>  <!-- 1.7  -->
