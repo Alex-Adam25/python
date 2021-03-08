@@ -21,6 +21,20 @@ ii) Fit an 𝐴=𝐴0*𝑓0^2/sqrt((𝑓^2−𝑓0^2)^2+(𝛿𝑓/𝜋)^2) mit `
   <img src="Physik_mit_Python/kap3/fit2.png " title="ii" width="300" />
 </p>  
 
+## Kapitel 4: Kinematik des Massenpunkts
+i) "Hundekurve" mit modifizierten Anfangsbedingungen (Der Mensch bewegt sich kontinuierlich im Kreis während der Hund stehts auf den Menschen direkt zuläuft)
+ii) "Hundekurve", wobei das Boot direkt auf das Ziel zusteuert jedoch von der Strömung beeinflusst wird
+iii) Simulation eines Fadenspendel mit Kleinwinkelnäherung
+iv) Simulation des "Affenschuss"
+
+<p align="middle">
+  <img src="Physik_mit_Python/kap4/hund_kreis_kurve.gif " title="i" width="200" />
+  <img src="Physik_mit_Python/kap4/boot_kurve.gif " title="ii" width="200" />
+  <img src="Physik_mit_Python/kap4/fadenpendel.gif " title="iii" width="200" />
+  <img src="Physik_mit_Python/kap4/fallender_Affe.gif " title="iv" width="200" />
+</p>  
+
+
 # Versuchsausvertungen Uni:
 ## M15 Harmonische Schwingungen von Physikalischen und gekoppelten Pendeln <!-- 2.0 -->
 Allgemeine Fits mit <code>scipy.stats.linregress</code> als auch ein Fit mit `lmfit`(rechtes bild) welches sehr fortgeschritten ist (Zur installation in Anaconda3: `conda install -c conda-forge lmfit`). <a href="Laborpraktika/Experiment_M15/m15.pdf">PDF Protokoll M15</a>  
