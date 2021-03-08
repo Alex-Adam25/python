@@ -1,4 +1,20 @@
-# python
+# Resultate aus dem Buch 'Physik mit Python'
+Physik mit Python fängt ganz vorne an(bezogen auf Python) und befasst sich mit allen Problemstellungen, welche man sich im Zusammenhang mit der Physik vorstellen kann.
+Ab dem zweiten Kapitel gibt es stets eine Handvoll Aufgaben, welche meist auf in diesem Kapitel vorgestellten Programmen und Konzepten beruhen. Im Folgenden sind die jeweils interessante und visuell ansprechende Ergebnis der Aufgaben präsentiert.
+
+## Kapitel 2: Einführung in Python
+i) Primzahlfindung mittels des Algoritmus 'Sieb des Eratosthenes'. Das gif zeigt die Funktionsweise(von Wikipedia)
+ii) Erzeugung einer Rechteckwelle durch überlagerung von Sinus Wellen
+iii) effizente Flächenberechnung eines Polygon
+<p align="middle">
+  <img src="Physik_mit_Python/kap2/Animation_Sieb_des_Eratosthenes.gif " title="i" width="300" />
+  <img src="Physik_mit_Python/kap2/rechteck_mit_sinus.gif" title="ii" width="300" />
+  <img src="Physik_mit_Python/kap2/Fläche Polygon.png " title="ii" width="300" />
+</p>  
+
+
+
+# Versuchsausvertungen Uni:
 ## M15 Harmonische Schwingungen von Physikalischen und gekoppelten Pendeln <!-- 2.0 -->
 Allgemeine Fits mit <code>scipy.stats.linregress</code> als auch ein Fit mit `lmfit`(rechtes bild) welches sehr fortgeschritten ist (Zur installation in Anaconda3: `conda install -c conda-forge lmfit`). <a href="Laborpraktika/Experiment_M15/m15.pdf">PDF Protokoll M15</a>  
 <p align="middle">
@@ -94,7 +110,7 @@ Aufnehmen von Kennlinien und Darstellung in Python unter Verwendung verschiedene
 Aufnehmen von Kennlinien und Darstellung in Python als auch einfache Fits . <a href="Laborpraktika/Experiment_EP3/EP3_Jahns_Adam.pdf">PDF Protokoll EP2</a>
 
 
-<h2> InfoStat/Einführung in die Statistik und angewandte Informatik </h2> <!-- 1.7  -->
+<h1> Modul: InfoStat/Einführung in die Statistik und angewandte Informatik </h1> <!-- 1.7  -->
 Simulation des Simulation des Rutherford-Geiger-Experimentes und Bestätigung der unterliegenden Vermutung einer Possion-Verteilung (N &rarr; &infin; &rArr; Possion-Verteilung). Es wurde einfach, in einer .ipynb Datei, implementiert als auch unter Verwendung von Multithreading welches eine weitere selbsterstellte .py Datei benötigte.<a href="InfoStat/Simulation_des_Rutherford_Geiger_Experimentes.pdf">PDF Abgabe</a>
 <p align="middle">
   <img src="InfoStat/plot1.png" width="200" />
