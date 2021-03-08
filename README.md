@@ -12,7 +12,14 @@ iii) effizente Flächenberechnung eines Polygon
   <img src="Physik_mit_Python/kap2/Fläche Polygon.png " title="ii" width="300" />
 </p>  
 
+## Kapitel 3: Physikalische Größen und Messungen
+i) Fit an 𝐹 =𝑏|𝑣|^𝑛 mit `scipy.optimize.curve_fit`
+ii) Fit an 𝐴=𝐴0*𝑓0^2/sqrt((𝑓^2−𝑓0^2)^2+(𝛿𝑓/𝜋)^2) mit `scipy.optimize.curve_fit` und berücksichtigung der Fehler
 
+<p align="middle">
+  <img src="Physik_mit_Python/kap3/fit1.png " title="i" width="300" />
+  <img src="Physik_mit_Python/kap3/fit2.png " title="i" width="300" />
+</p>  
 
 # Versuchsausvertungen Uni:
 ## M15 Harmonische Schwingungen von Physikalischen und gekoppelten Pendeln <!-- 2.0 -->
