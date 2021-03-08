@@ -9,7 +9,7 @@ iii) effizente Flächenberechnung eines Polygon
 <p align="middle">
   <img src="Physik_mit_Python/kap2/Animation_Sieb_des_Eratosthenes.gif " title="i" width="200" />
   <img src="Physik_mit_Python/kap2/rechteck_mit_sinus.gif" title="ii" width="300" />
-  <img src="Physik_mit_Python/kap2/Fläche Polygon.png " title="ii" width="300" />
+  <img src="Physik_mit_Python/kap2/Fläche Polygon.png " title="iii" width="300" />
 </p>  
 
 ## Kapitel 3: Physikalische Größen und Messungen
@@ -18,7 +18,7 @@ ii) Fit an 𝐴=𝐴0*𝑓0^2/sqrt((𝑓^2−𝑓0^2)^2+(𝛿𝑓/𝜋)^2) mit `
 
 <p align="middle">
   <img src="Physik_mit_Python/kap3/fit1.png " title="i" width="300" />
-  <img src="Physik_mit_Python/kap3/fit2.png " title="i" width="300" />
+  <img src="Physik_mit_Python/kap3/fit2.png " title="ii" width="300" />
 </p>  
 
 # Versuchsausvertungen Uni:
