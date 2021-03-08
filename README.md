@@ -28,10 +28,10 @@ iii) Simulation eines Fadenspendel mit Kleinwinkelnäherung
 iv) Simulation des "Affenschuss"
 
 <p align="middle">
-  <img src="Physik_mit_Python/kap4/hund_kreis_kurve.gif " title="i" width="225" />
-  <img src="Physik_mit_Python/kap4/boot_kurve.gif " title="ii" width="225" />
-  <img src="Physik_mit_Python/kap4/fadenpendel.gif " title="iii" width="225" />
-  <img src="Physik_mit_Python/kap4/fallender_Affe.gif " title="iv" width="225" />
+  <img src="Physik_mit_Python/kap4/hund_kreis_kurve.gif " title="i" width="250" />
+  <img src="Physik_mit_Python/kap4/boot_kurve.gif " title="ii" width="250" />
+  <img src="Physik_mit_Python/kap4/fadenpendel.gif " title="iii" width="250" />
+  <img src="Physik_mit_Python/kap4/fallender_Affe.gif " title="iv" width="250" />
 </p>  
 
 
