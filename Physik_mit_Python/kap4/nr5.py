@@ -54,6 +54,6 @@ def update(n):
 
 ani = mpl.animation.FuncAnimation(fig, update, interval=30,
                                   frames=len(t)-1, blit=True,repeat=False)
-ani.save("fadenpendel.mp4",fps=30)
+ani.save("fadenpendel.gif",fps=30)
 
 

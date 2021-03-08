@@ -58,7 +58,7 @@ def update(n):
 
 ani = mpl.animation.FuncAnimation(fig, update, interval=30,
                                   frames=hit_index, blit=True,repeat=False)
-ani.save("fallender_Affe.mp4",fps=30)
+ani.save("fallender_Affe.gif",fps=30)
 
 
 

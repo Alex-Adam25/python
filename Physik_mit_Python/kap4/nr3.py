@@ -129,5 +129,5 @@ def update(n):
 # Erzeuge das Animationsobjekt und starte die Animation.
 ani = mpl.animation.FuncAnimation(fig, update, interval=30,
                                   frames=t.size, blit=True)
-ani.save("hund_kreis_kurve.mp4",fps=30)
-#plt.show()
+#ani.save("hund_kreis_kurve.gif",fps=30)
+plt.show()

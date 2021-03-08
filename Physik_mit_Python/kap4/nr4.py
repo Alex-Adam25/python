@@ -64,8 +64,8 @@ def update(n):
 
 ani = mpl.animation.FuncAnimation(fig, update, interval=30,
                                   frames=len(t), blit=True,repeat=False)
-ani.save("boot_kurve.mp4",fps=30)
-#plt.show()
+#ani.save("boot_kurve.gif",fps=30)
+plt.show()
 
 
 
