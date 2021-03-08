@@ -7,7 +7,7 @@ i) Primzahlfindung mittels des Algoritmus 'Sieb des Eratosthenes'. Das gif zeigt
 ii) Erzeugung einer Rechteckwelle durch überlagerung von Sinus Wellen
 iii) effizente Flächenberechnung eines Polygon
 <p align="middle">
-  <img src="Physik_mit_Python/kap2/Animation_Sieb_des_Eratosthenes.gif " title="i" width="300" />
+  <img src="Physik_mit_Python/kap2/Animation_Sieb_des_Eratosthenes.gif " title="i" width="200" />
   <img src="Physik_mit_Python/kap2/rechteck_mit_sinus.gif" title="ii" width="300" />
   <img src="Physik_mit_Python/kap2/Fläche Polygon.png " title="ii" width="300" />
 </p>  
