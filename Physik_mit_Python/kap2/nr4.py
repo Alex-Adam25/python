@@ -29,5 +29,5 @@ def update( n ):
 ani = mpl.animation.FuncAnimation(fig, update, interval=250, 
                                   blit=True,frames=60,repeat=False)
 
-ani.save("rechteck_mit_sinus.mp4")
+ani.save("rechteck_mit_sinus.gif")
 #plt.show()

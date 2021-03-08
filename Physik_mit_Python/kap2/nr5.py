@@ -18,3 +18,4 @@ print(A)
 
 plt.plot(x,y)
 plt.gca().set_aspect('equal')
+plt.text(0.5, 0.5,f"Fläche:{A:.4f}",transform=plt.gca().transAxes)
